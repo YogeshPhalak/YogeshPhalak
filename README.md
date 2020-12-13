@@ -15,27 +15,26 @@
 ### Connect with me:
 
 <a target="_blank" href="https://www.linkedin.com/in/yogesh31415/">
-  <img align="left" alt="LinkdeIN" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIN" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=8698069357">
-  <img align="left" alt="Whatsapp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+  <img align="left" alt="Whatsapp" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-512.png" />
 </a>
 <a target="_blank" href="https://scholar.google.com/citations?hl=en&user=0T0znbMAAAAJ&view_op=list_works">
-  <img align="left" alt="GoogleScholar" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
+  <img align="left" alt="GoogleScholar" width="26px" src="https://cdn.worldvectorlogo.com/logos/google-scholar.svg" />
 </a>
 <a target="_blank" href="https://twitter.com/Yogesh05602392">
-  <img align="left" alt="twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="twitter" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" />
 </a>
 <a target="_blank" href="mailto:yogeshphalak31415@gmail.com">
-  <img align="left" alt="Gmail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" />
 </a>
 <a target="_blank" href="https://www.youtube.com/channel/UCsmDp-EjwFJBBDxV-iYXMIw">
-  <img align="left" alt="Youtube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="Youtube" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" />
 </a>
 <a target="_blank" href="https://www.facebook.com/profile.php?id=100008935358101">
-  <img align="left" alt="Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Facebook" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" />
 </a>
-
 </br>
 
 ### Languages and Tools:
