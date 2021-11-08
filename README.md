@@ -2,12 +2,12 @@
 
 ### Hi there, I'm Yogesh Phalak 👋
 
-## I'm an Electrical and Electronics Engineering graduate :mortar_board:, a Roboticist, a Geeky Math Enthusiast, and an Epistemophile.
+## I'm an Electrical and Electronics Engineering graduate, a Roboticist, a Geeky Math Enthusiast, and an Epistemophile.
 
 - 🔭 I’m currently working on Developing Robotic algorithms in warehouse applications :nerd_face: 
 - 🌱 I’m currently learning everything :grin:  
 - 👯 I’m looking to collaborate to other content creators.
-- :beetle: 2020 Goals: Contribute more to opensource projects.
+- :mortar_board: 2021 Goals: To seek admittance to a good robotics and mathematics Ph.D. program and begin my independent research career.
 - ⚡ Fun fact: I love to draw sketches :pencil: and Hiking :mountain: 
 
 
