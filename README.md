@@ -1,14 +1,36 @@
 
 
-### Hi there, I'm Yogesh Phalak 👋
+### Hello there, I'm Yogesh Phalak 👋
 
-## I'm an Electrical and Electronics Engineering graduate, a Roboticist, a Geeky Math Enthusiast, and an Epistemophile.
+I'm a PhD student in engineering mechanics at Virginia Tech, with a background in electrical and electronics engineering. My research interests revolve around using theoretical mechanics, design, and mathematics to create innovative solutions for engineering problems.
 
-- 🔭 I’m currently working on Developing Robotic algorithms in warehouse applications :nerd_face: 
-- 🌱 I’m currently learning everything :grin:  
-- 👯 I’m looking to collaborate to other content creators.
-- :mortar_board: 2021 Goals: To seek admittance to a good robotics and mathematics Ph.D. program and begin my independent research career.
-- ⚡ Fun fact: I love to draw sketches :pencil: and Hiking :mountain: 
+One of the things I love doing is working on robotics projects. I've been fortunate enough to work on a variety of them, ranging from localization of aerial robots to designing legged and snake robots. I find these projects fascinating because they combine elements from different disciplines, and require a lot of creativity and problem-solving skills.
+
+## Current Work
+
+Currently, I'm working on some exciting projects:
+
+1. Modeling dynamic systems with non-holonomic constraints and studying their chaotic behavior. 🌀
+2. Exploring different complex mechanical system networks and finding intersections between them and physical reservoir computing models. 🤯
+3. Modeling snake locomotion and exploring the role of normal force modulation in it. 🐍
+
+## Goals for 2023
+
+My goals for this year are ambitious, but I'm excited about them. First, I want to complete my master's degree in engineering mechanics and finish my thesis on modeling animal locomotion. Second, I plan to pursue a master's degree in mathematics, because I believe that mathematics is a key element in solving many engineering problems. Finally, I hope to find a great topic for my doctoral research.
+
+## Expertise
+
+🚀 My expertise lies in several areas of robotics, including motion planning, control, perception, and machine learning.
+
+📈 In mathematics, I have a strong background in pure mathematics and applied areas such as linear algebra, optimization, and numerical analysis.
+
+## Collaboration
+
+If you're interested in my work, or if you'd like to collaborate, please don't hesitate to reach out. I'm always happy to chat! 😇
+
+## Fun Fact
+
+🎨 Drawing portraits is my favorite way to unwind and tap into my creative side. When I'm not working on robotics or mathematics, you can find me sketching away!
 
 
 
