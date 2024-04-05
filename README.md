@@ -22,7 +22,7 @@ My goals for this year are ambitious, but I'm excited about them. First, I want 
 
 🚀 My expertise lies in several areas of robotics, including motion planning, control, perception, and machine learning.
 
-📈 In mathematics, I have a strong background in pure mathematics and applied areas such as linear algebra, optimization, and numerical analysis.
+📈 In mathematics, I have a good background in pure mathematics and applied areas such as linear algebra, optimization, and numerical analysis.
 
 ## Collaboration
 
